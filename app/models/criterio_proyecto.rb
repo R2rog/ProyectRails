@@ -1,0 +1,2 @@
+class CriterioProyecto < ApplicationRecord
+end

@@ -1,0 +1,13 @@
+esto deberia funcionar:
+
+rails new nombre-del-proyecto
+
+esto por cada tabla:
+rails g scaffold nombre-de-la-tabla nombre:string numero:integer 
+
+rails db:setup
+rails db:migrate
+
+rails s
+
+probar endpoints
